@@ -8,7 +8,7 @@ Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
 Remember, it's self-paced so feel free to take a break! ☕️
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/aryabrataBasu-s-Classes-UALR/aryabratabasu-s-classes-ualr-classroom-cpsi49203-spring2026-git-review-pull-requests-review-pull-req/issues/1)
+[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/aryabrataBasu-s-Classes-UALR/git-review-pull-requests-tugbaagdas/issues/4)
 
 ---
 
